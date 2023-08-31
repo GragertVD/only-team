@@ -1,6 +1,6 @@
 # Тестовое задание в Only team
 
-[Demo](https://print-speed.vercel.app/).
+[Demo](https://only-team.vercel.app/).
 
 Описание
 
@@ -21,26 +21,6 @@
 Выполненное задание необходимо прислать в виде ссылки на git-репозиторий. Актуальная версия кода должна находится в основной ветке.
 
 
-## Запуск локально
-
-Экспорт проекта локально на компьютер:
-
-```
-git clone https://github.com/GragertVD/print-speed.git
-```
-
-Для установки зависимостей:
-
-```
-npm install
-```
-
-Для запуска на localhost:3000:
-
-```
-npm start
-```
-
 ## Demo
 
-Посмотреть приложение в действии можно на [Versel](https://print-speed.vercel.app/)
+Посмотреть приложение в действии можно на [Versel](https://only-team.vercel.app/)
